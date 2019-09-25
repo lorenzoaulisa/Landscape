@@ -154,7 +154,8 @@ Calvin.color("gold")
 Calvin.begin_fill()
 Calvin.circle(60)
 Calvin.end_fill()
-Calvin.left(30)
+Calvin.left(30) 
+
 #cloud3
 Calvin.color("dodger blue")
 Calvin.right(20)
